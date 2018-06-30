@@ -17,7 +17,7 @@ int main() {
 	while (n--) {
 		u_longi t = 0;
 		scanf("%llu", &t);
-		
+
 		if (t % k == 0)
 			++counter;
 	}
