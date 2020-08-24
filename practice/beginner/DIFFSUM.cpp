@@ -1,6 +1,6 @@
 /*
-  Problem Code : START01
-  Problem : Number Mirror
+  Problem Code : DIFFSUM
+  Problem : Sum OR Difference
   Author : Rakesh Kumar
   Date: 25/08/2020
 */
