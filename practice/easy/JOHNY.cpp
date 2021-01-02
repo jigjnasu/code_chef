@@ -2,7 +2,7 @@
   Problem Code : JOHNY
   Problem : Uncle Johny
   Author : Rakesh Kumar
-  Date: 02/02/2021
+  Date: 02/01/2021
 */
 
 #include <bits/stdc++.h>
