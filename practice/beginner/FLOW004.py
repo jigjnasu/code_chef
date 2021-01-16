@@ -1,5 +1,5 @@
 '''
-  Problem : Small factorials
+  Problem : First and Last Digit
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
   Date : 17/01/2021
