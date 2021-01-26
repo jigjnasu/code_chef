@@ -1,5 +1,5 @@
 /*
-  Problem : Helping Chef
+  Problem : Sums in a triangle
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
   Date : 26/01/2021
