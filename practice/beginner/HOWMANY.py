@@ -6,4 +6,8 @@
 '''
 
 if __name__ == '__main__':
-    print(len(str(input())))
+    n = len(str(input()))
+    if n > 3:
+        print('More than 3 digits')
+    else:
+        print(n)
