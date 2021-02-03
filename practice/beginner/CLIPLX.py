@@ -1,5 +1,5 @@
 '''
-  Problem : Id and Ship
+  Problem : IPL and RCB
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
   Date : 04/02/2021
