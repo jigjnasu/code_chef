@@ -1,5 +1,5 @@
 '''
-  Problem : Playing with Strings
+  Problem : Uniform Strings
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
   Date : 11/02/2021
