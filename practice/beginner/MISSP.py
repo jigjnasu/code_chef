@@ -1,5 +1,5 @@
 '''
-  Problem : Chef and Two Strings
+  Problem : Chef and Dolls
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
   Date : 12/02/2021
