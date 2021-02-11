@@ -1,5 +1,5 @@
 '''
-  Problem : Chef and Dolls
+  Problem : Buying New Tablet
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
   Date : 12/02/2021
