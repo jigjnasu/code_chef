@@ -1,5 +1,5 @@
 '''
-  Problem : Chef and the Wildcard Matching
+  Problem : Coins and Triangles
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
   Date : 14/02/2021
