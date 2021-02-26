@@ -1,5 +1,5 @@
 '''
-  Problem : Chef And Coloring
+  Problem : COVID Pandemic and Long Queue
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
   Date : 20/02/2021
