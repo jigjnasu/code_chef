@@ -2,7 +2,7 @@
   Problem : Chef Diet
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
-  Date : 22/03/2021
+  Date : 23/03/2021
 '''
 
 def solve():
