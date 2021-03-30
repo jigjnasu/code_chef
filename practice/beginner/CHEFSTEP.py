@@ -1,5 +1,5 @@
 '''
-  Problem : Chef and Price Control
+  Problem : Chef and Steps
   Author @ Rakesh Kumar
   cpp.rakesh@gmail.com
   Date : 30/03/2021
